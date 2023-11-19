@@ -6,7 +6,7 @@ Any and all Project KONGOR members that have been or will be added to this organ
 
 Since the long-term vision of Project KONGOR was and still is to eventually open-source the codebases which make up Project KONGOR, repositories of interest that are part of Project KONGOR are protected by a GNU GENERAL PUBLIC LICENSE (Version 3), meaning that, amongst many clauses, any and all distributions, forks, etc. of Project KONGOR or of any parts of Project KONGOR must be made open-source and any state changes to non-origin codebases must be made public.
 
-The owner of Project KONGOR does not accept any liability incurred by contributions of any members of Project KONGOR, including but not limited to any infringements on the Heroes Of Newerth (2009-2022) intellectual property.
+The owner of Project KONGOR does not accept any liability incurred by contributions of any members of Project KONGOR, including but not limited to any infringements on the Heroes Of Newerth intellectual property.
 
 Continued membership of Project KONGOR, hosted here at https://github.com/N-E-W-E-R-T-H, is considered to be explicit consent to the afore-detailed terms and conditions.
 
